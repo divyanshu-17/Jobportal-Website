@@ -1,32 +1,3 @@
-
-Start the backend:
-
-```bash
-npm run dev
-```
-
-The backend runs on:
-
-```text
-http://localhost:3000
-```
-
-## Frontend Setup
-
-Open a new terminal:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-The frontend runs on:
-
-```text
-http://localhost:5173
-```
-
 ## Demo Accounts
 
 After running the seed command, you can use these accounts:
